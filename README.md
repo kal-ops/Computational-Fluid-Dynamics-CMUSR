@@ -1,3 +1,5 @@
+Please read the report CFD-4 before looking at the rest of the work.
+
 Overview
 
 This repository contains the code, data, and analysis for the Power vs. Speed Analysis conducted for the CMU Solar Racing (CMUSR) team. The purpose of this project is to help the power sub-team determine whether their current power output from solar panels is sufficient to meet the power requirements of the boat at various speeds.
